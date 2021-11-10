@@ -1,0 +1,148 @@
+<!doctype html>
+    <html lang="ES">
+        <head>
+     <meta charset="utf-8">
+<title>Curriculum Vitae</title>
+<style>
+body {background-color: rgba(242, 247, 248, 0.692);}
+h1   {color: rgb(10, 10, 10);text-align:center;}
+h2   {color:rgb(10, 10, 10);text-align: center;}
+p    {color: rgb(12, 12, 12);}
+
+
+</style>
+</head>
+<body>
+<h2>VICTOR CRUZ SAYANS</h2>
+<br>
+
+<img src="CASA.png" alt= "logo de la casa" style= "float:right;width: 19px;;height: 19px;">
+<p style="text-align:right;">Direccion Nº1.</p>
+
+<img src="TELEFONO.png" alt= "logo de un telefono" style="float:right;width: 20px;height:20px;">
+<p style="text-align:right;"> 999 999 999</p>
+    
+<img src="SOBRE.png" alt= "logo de un sobre" style="float:right;width:20px;height:20px;">
+<p style="text-align:right;"> sayans.cruz@gmail.com</p>
+
+<img src="LINKEDIN.png" alt= "logo de acceso a Linkedin" style="float:right;width:20px;height:20px;">
+<p style="text-align: right;"> https:/www.linkedin.com/in/victor-cruz-</p>
+
+<br>
+<br>
+<img src="CIRCULO.png" alt= "logo de cabecera de objetivos" style="float:left;width:30px;height:30px;color:black">
+<h2 style="text-align: left;"> OBJETIVOS </h2>
+<hr>
+<br>
+<br>
+
+
+<!-- CABECERA  -->
+
+
+<table style="width:100%" >
+    <tr style="text-align: justify;">
+        <td>Formar parte de una empresa en la que poder contribuir con mis conocimientos en la consecución de los objetivos y que me permita mejorar y crecer en el ámbito laboral, personal e intelectual</td>  
+    </tr>
+</table> 
+
+<!-- OBJETIVOS -->
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="EDUCACION.png"  alt="logo de educacion" style="float:left;width:30px;height:30px;color:black">
+<h2 style="text-align: left;"> EDUCACION </h2>
+<br>
+
+<table>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse ;color: blueviolet;">CFGS Admisistracion de Sistemas Informaticos en Red | <b>IES MAJADA MARCIAL</b> 01/09/2020 - CURSANDO</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse;color: blueviolet;">CFGS Marketing Digital y Comercio Electronico | <b>DEUSTO FORMACION</b> 01/09/2020 - CURSANDO</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse;color: blueviolet;">CCNA CSCO13133082 | <b>GRUPO UNIREG</b> 01/03/2017</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse;color: blueviolet;">Scrum Fundamentals Certified Credentials Licencia 566070 |<b> GRUPO UNIREG</b> 01/02/2016</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse;color: blueviolet;">CFG Explotacion de Sistemas Informaticos | <b>IES MAJADA MARCIAL</b> 01/09/2007 - 30/06/2009</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td style="border-collapse: collapse;color: blueviolet;">Graduado Escolar Secundaria | <b>IES SAN DIEGO DE ALCALA</b> 30/06/2001</td>
+    </tr>
+
+</table> 
+
+<!-- FORMACION  -->
+
+<br>
+<br>
+<br>
+<br>
+<img src="LABORAL.png"  alt="logo de experiencia laboral" style= "float:left;width:30px;height:30px;color:black">
+<h2 style="text-align: left;"> EXPERIENCIA </h2>
+<table>
+    <tr style="text-align: justify;">
+        <td><b>Informatico - Empresa</b> (13/03/2014 - 26/03/2019) | Puesto Desempeñado en el área de técnico de taller, asimismo como técnico de campo en
+            domicilio.</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td><b>Informatico - Empresa</b> (21/08/2012 - 28/02/2014) | Puesto Desempeñado en el área de técnico de taller, asimismo como técnico de campo en
+            domicilio.</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td><b>Administrativo - Servicio Canario de la Salud </b> (28/07/2008 - 03/10/2008) | Puesto Desempeñado en el área de Urgencias, así como en la seccion de Archivos.</td>
+    </tr>
+    <tr style="text-align: justify;">
+        <td><b>Dependiente - Dinebe S.L.</b> (05/12/2003 - 08/03/2007) | Puesto Desempeñado en el área de venta al público en un Centro Comercial. </td>
+    </tr>
+</table>
+
+<!-- EXPERIENCIA LABORAL  -->
+<br>
+<br>
+<hr>
+<br>
+<img src="APTITUDES.png"  alt="logo de aptitudes" style="float:left;width:30px;height:30px;color:black">
+<h2 style="text-align: left;"> APTITUDES </h2>
+<table>
+    <tr style="text-align: center;">
+    
+            <td style= "border: 1px solid violet ;">Cableado Estructurado</td>
+            <td style= "border: 1px solid violet ;">Repacion de Hardware</td>
+            <td style= "border: 1px solid violet ;">Impresoras</td>
+            <td style= "border: 1px solid violet ;">Soporte IT</td>
+    </tr> 
+    <tr style="text-align: center;"> 
+
+            <td style= "border: 1px solid violet ;">Implantacion de Coberturas</td>
+            <td style= "border: 1px solid violet ;">Diagnostico de H/S</td>  
+            <td style= "border: 1px solid violet ;">Asesoramiento </td>
+            <td style= "border: 1px solid violet ;">Ingles Medio Hablado y Escrito</td>
+     </tr>
+</table>
+
+<!-- APTITUDES  -->
+
+<br>
+<br>
+<br>
+<img src="ACTIVIDADES.png"  alt="logo de aptitudes" style="float:left;width:30px;height:30px;color:black">
+<h2 style="text-align: left;"> ACTIVIDADES </h2>
+<table style="width:100%" >
+    <tr style="text-align: justify;">
+        <td>Persona amante de los deportes y la vida sana, no fumador. Me destaco por mi afán de trabajo en equipo, limpio y profesional.
+            <br>
+            <br>
+            En constante aprendizaje, con buen trato de cara al cliente disponiendo de permiso de conducir B y disponibilidad inmediata</td>  
+    </tr>
+</table> 
+
+</body>
+</html>
